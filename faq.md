@@ -17,13 +17,12 @@
   entre o limite de horas da linha.
 
 - ### É possível mudar o limite de horas que é usado para obter os horários?
-  Não, este limite é mudado remotamente, e se aceitaste as permissões
-  necessárias (apenas iOS, no Android são geridas automáticamente). Isto é uma
-  forma manter reduzido volume de dados pedido e uma velocidade maior e constante
+  Não, este limite é mudado remotamente. Isto é uma
+  forma de manter reduzido volume de dados pedido e uma velocidade maior e constante
   a ir buscar os dados.
 
 - ### Estou na linha de Cascais e os comboios nem sempre estão corretos, porquê?
-  Neste caso não existe grande responsta, pois os dados são facultados assim pelo nosso provedor.
+  Neste caso não existe grande resposta, pois os dados são facultados assim pelo nosso provedor.
   É possível que seja devido à idade da linha e da pouca modernização até à data, tornando dificil
   o seguimento dos comboios em tempo real. (É possível que com o final da modernização da linha
   estes horários fiquem mais corretos).
