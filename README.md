@@ -15,4 +15,5 @@
 ### - [Termos de serviço](https://ricardo-rodrigues.eu/setubal_terms_of_service)
 ### - [EULA](https://ricardo-rodrigues.eu/setubal_eula)
 
+# Tens alguma questão? [toca aqui!](https://ricardo-rodrigues.eu/faq)
 # Queres entrar em contacto? [toca aqui!](https://ricardo-rodrigues.eu/contacts)
