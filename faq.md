@@ -1,11 +1,5 @@
 # Perguntas frequentes:
 
-- ### A app diz sempre que tem o serviço de localização ativado, estou a ser seguido/a?
-  Não, a app só usa a tua localização temporáriamente para obter a estação mais próxima.
-  Este "aviso" serve apenas para notificar-te que quando fizeres um refresh ou procurares por horários de
-  outra estação, a aplicação consegue (está autorizada) a fazer o pedido da tua localização ao teu smartphone.
-  Caso tenhas mudado de ideias, podes sempre rejeitar a permissão da partilha nas definições da app.
-
 - ### O aviso na estação diz que o comboio está atrasado, mas a app não tem nenhuma informação sobre esse atraso, porquê?
   Isto acontence normalmente com atrasos até 5 min e pode ser por duas razões:
     - O nosso provedor de dados não atualizou os dados desse comboio (raro);
