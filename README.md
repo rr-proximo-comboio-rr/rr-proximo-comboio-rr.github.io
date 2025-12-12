@@ -1,19 +1,19 @@
 # ;)
 
 # Próximo Comboio Lisboa:
-### - [Politica de privacidade](https://ricardo-rodrigues.eu/lisboa_privacy_policy)
-### - [Termos de serviço](https://ricardo-rodrigues.eu/lisboa_terms_of_service)
-### - [EULA](https://ricardo-rodrigues.eu/lisboa_eula)
+### - [Politica de privacidade](https://rr-proximo-comboio-rr.github.io/lisboa_privacy_policy)
+### - [Termos de serviço](https://rr-proximo-comboio-rr.github.io/lisboa_terms_of_service)
+### - [EULA](https://rr-proximo-comboio-rr.github.io/lisboa_eula)
 
 # Próximo Comboio Porto:
-### - [Politica de privacidade](https://ricardo-rodrigues.eu/porto_privacy_policy)
-### - [Termos de serviço](https://ricardo-rodrigues.eu/porto_terms_of_service)
-### - [EULA](https://ricardo-rodrigues.eu/porto_eula)
+### - [Politica de privacidade](https://rr-proximo-comboio-rr.github.io/porto_privacy_policy)
+### - [Termos de serviço](https://rr-proximo-comboio-rr.github.io/porto_terms_of_service)
+### - [EULA](https://rr-proximo-comboio-rr.github.io/porto_eula)
 
 # Próximo Comboio Setúbal:
-### - [Politica de privacidade](https://ricardo-rodrigues.eu/setubal_privacy_policy)
-### - [Termos de serviço](https://ricardo-rodrigues.eu/setubal_terms_of_service)
-### - [EULA](https://ricardo-rodrigues.eu/setubal_eula)
+### - [Politica de privacidade](https://rr-proximo-comboio-rr.github.io/setubal_privacy_policy)
+### - [Termos de serviço](https://rr-proximo-comboio-rr.github.io/setubal_terms_of_service)
+### - [EULA](https://rr-proximo-comboio-rr.github.io/setubal_eula)
 
-# Tens alguma questão? [toca aqui!](https://ricardo-rodrigues.eu/faq)
-# Queres entrar em contacto? [toca aqui!](https://ricardo-rodrigues.eu/contacts)
+# Tens alguma questão? [toca aqui!](https://rr-proximo-comboio-rr.github.io/faq)
+# Queres entrar em contacto? [toca aqui!](https://rr-proximo-comboio-rr.github.io/contacts)
